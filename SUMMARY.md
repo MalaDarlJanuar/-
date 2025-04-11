@@ -10,3 +10,4 @@
 * [Episode 4](charpter/episode-4.md)
 * [Episode 5](charpter/episode-5.md)
 * [Episode 6](charpter/episode-6.md)
+* [Episode 7](charpter/episode-7.md)
