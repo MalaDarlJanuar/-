@@ -1,6 +1,6 @@
 # Table of contents
 
-* [转生成冯诺依曼机器这档事](README.md)
+* [Introduction](README.md)
 
 ## 主要章节 <a href="#charpter" id="charpter"></a>
 
