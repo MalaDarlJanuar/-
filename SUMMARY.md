@@ -14,3 +14,4 @@
 * [Episode 9 Part I](charpter/episode-9-part-i.md)
 * [Episode 9 Part II](charpter/episode-9-part-ii.md)
 * [Episode 11](charpter/episode-11.md)
+* [Episode 13](charpter/episode-13.md)
