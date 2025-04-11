@@ -1,6 +1,6 @@
 # Episode 2
 
-<figure><img src=".gitbook/assets/v2-0f68a8590bbb36cbc3ab9943b4f92bb0_r.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/v2-0f68a8590bbb36cbc3ab9943b4f92bb0_r.png" alt=""><figcaption></figcaption></figure>
 
 > /主视角自动日志：0001.01.01 01:19:19.810/
 
@@ -80,7 +80,7 @@
 
 喔，感觉到了，我在那个所谓的“主体部分”有不少“眼睛”。
 
-<figure><img src=".gitbook/assets/v2-8496cde35460b8237eba78b71dc2c93d_1440w.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/v2-8496cde35460b8237eba78b71dc2c93d_1440w.jpg" alt=""><figcaption></figcaption></figure>
 
 好多机器...
 
@@ -433,7 +433,7 @@ _否定。此设计已经接近化学材料允许的工程学极限。_
 > /1具液态氦3储罐泄露。/\
 > /主结构轻微损伤。/
 
-<figure><img src=".gitbook/assets/v2-5125c2f44b25276c670f2f2394ce30f0_1440w.png" alt=""><figcaption><p>碎片应该更细、小行星应该更圆，但懒得细化了，如果想问“这看起来根本不大啊”那问就是战忽局拍的</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/v2-5125c2f44b25276c670f2f2394ce30f0_1440w.png" alt=""><figcaption><p>碎片应该更细、小行星应该更圆，但懒得细化了，如果想问“这看起来根本不大啊”那问就是战忽局拍的</p></figcaption></figure>
 
 阿米诺斯。
 
@@ -684,4 +684,4 @@ _双星系统。伴星为M4V红矮星。_
 
 离我22光年远的地方，有...有堆人造物体包住了一颗恒星？
 
-<figure><img src=".gitbook/assets/v2-ae2acd60342e4f9752426868309bbb46_1440w.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/v2-ae2acd60342e4f9752426868309bbb46_1440w.jpg" alt=""><figcaption></figcaption></figure>
