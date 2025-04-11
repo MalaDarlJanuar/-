@@ -286,6 +286,8 @@ _2。_
 
 不对啊！我怎么就这么接受了啊？这都什么和什么啊！
 
+<figure><img src="../.gitbook/assets/v2-2bc3643fbfbe810418c61e21cdfbf13f_r.jpg" alt=""><figcaption></figcaption></figure>
+
 冷静，冷静——我的头脑又安分了下来。
 
 不就是“我身上长着几台巨大的聚变引擎”吗？深呼吸，不要大惊小怪...啊我好像不能呼吸。
@@ -307,7 +309,7 @@ _催化微裂变，烧蚀喷嘴。姿态调整引擎，VASIMR。_ 脑海中出�
 
 再远些，更靠近头部的位置，是一大堆看起来历经万古的壳体结构，似乎装着什么东西。一些部分已经打开了巨大的舱门，有零星的小机器在其中出入，沿着桁架爬行，不时闪起点点焊花。
 
-_载荷区。主体。冯诺依曼机器 。少部分设备正在为主体进行维护。_ 脑海中出现的信息如是说。
+_载荷区。主体。_[_冯诺依曼机器_](#user-content-fn-1)[^1] _。少部分设备正在为主体进行维护。_ 脑海中出现的信息如是说。
 
 进行维护...？
 
@@ -317,7 +319,7 @@ _载荷区。主体。冯诺依曼机器 。少部分设备正在为主体进行
 
 _光伏膜。碳质衬底，GaAs与钙钛矿叠层。_ 脑海中出现的信息如是说。
 
-这不就是太阳能板子嘛。
+这不就是太阳能板子嘛[^2]。
 
 最后，是最头部的位置，那里有好几层巨大的金属薄面，陈旧的表层依然银光闪闪，但边缘有些许撕裂。
 
@@ -381,11 +383,11 @@ _主引擎磁喷嘴。_ 脑海中出现的信息如是说。
 
 不是白平衡的问题。
 
-它的两极色温大概有\*7100K \*...
+它的[两极色温大概有\*7100K \*...](#user-content-fn-3)[^3]
 
-为什么这么高？太阳什么时候这么蓝了？
+为什么这么高？太阳什么时候这么蓝了？[^4]
 
-而且似乎明显有些椭圆，赤道比两极暗了不少...扁率大概&#x662F;_&#x30;.0622_。
+而且似乎明显有些椭圆，赤道比两极暗了不少[^5]...[扁率大概&#x662F;_&#x30;.0622_。](#user-content-fn-6)[^6]
 
 太阳绝对不可能自转得这么快啊，都椭得跟个鸡蛋似的了。
 
@@ -448,6 +450,8 @@ _长轴25.14km，宽4.810km，厚度最大处1.282km。干重1.011&#x34;_&#x31;0
 我草。
 
 所以，一觉醒来，我牛魔的变成了一艘几十公里长，干重亿吨，并&#x4E14;_&#x6B8B;留推进剂氘623万吨，氦三634.5万吨_ 的带着一堆工业机器的巨型飞船？
+
+<figure><img src="../.gitbook/assets/v2-7d973e06f5232d72943f0d46ca727033_1440w.png" alt=""><figcaption></figcaption></figure>
 
 这，这都什么玩意...
 
@@ -584,7 +588,7 @@ _219845122340._
 
 “好吧，那...∫(x^6+1)^{-1}dx=?”
 
-_\frac{\mathrm{arc}\tan x}{3}+\frac{\mathrm{arc}\tan \left( 2x+\sqrt{3} \right) +\mathrm{arc}\tan \left( 2x-\sqrt{3} \right)}{6}+\frac{\sqrt{3\}}{12}\ln \frac{x^2+\sqrt{3}x+1}{x^2-\sqrt{3}x+1}+C._
+<figure><img src="../.gitbook/assets/tex.png" alt=""><figcaption></figcaption></figure>
 
 答案再次直接从我的脑海中得出。
 
@@ -722,4 +726,113 @@ _......相对论修正后的本地时间 约公元2335000年1月1日00时。_
 
 _距离太阳 约61900光年。由于未更新天文数据，无法计算更精确的距离。_
 
+<figure><img src="../.gitbook/assets/v2-1506b6e703a9f80203c1b2a29abf7eef_1440w.jpg" alt=""><figcaption></figcaption></figure>
+
 ***
+
+<figure><img src="../.gitbook/assets/v2-a0315ebfd3ed6058cc1c923dba768157_1440w.jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/v2-8362c57b2b6250260fc6310a1a69f2fe_r.jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/v2-fb4b812d5efca8356014ea05fb0607e1_1440w.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/v2-1f2fd03197d6f28e52017a3d980df4ff_1440w.jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/v2-1ba5520183ae1d9b9c590021202a5b62_1440w.png" alt=""><figcaption><p>线圈也可能是异形的</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/v2-0de69ea1cda7f5953162547caf9f9ced_1440w.jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/v2-9fc466aeac41ec2ed436cae479d4bcf4_1440w.jpg" alt=""><figcaption><p>全都是自己渲的，别因为右上角那个设定中closedAI logo误认成Dall·E画的了()</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/v2-0af8e59d2829e13bb103812c2d3477e7_1440w.jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/v2-4af3a84f9ae9eb8328737325a972fb92_r.png" alt=""><figcaption><p>比较旧的版本的全貌，还没细化，如果想问“这看起来根本不大啊”那问就是战忽局拍的</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/v2-fe06136ce6521a5da396c1cf9b5ab2ae_1440w.png" alt=""><figcaption><p>小的飞行器是太阳蛾</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/v2-8496cde35460b8237eba78b71dc2c93d_1440w.jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/v2-0f68a8590bbb36cbc3ab9943b4f92bb0_1440w.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/v2-5125c2f44b25276c670f2f2394ce30f0_1440w.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/v2-879a112e44fe9e9017f3b37b383ac5d4_1440w.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/v2-2c83b35ce613272b53b6ae034a41f4e3_1440w.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/v2-eb863b74890881df409b731b659b9530_1440w.jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/v2-2f8b649ebdcf78e4e46ec21b042d516f_r.jpg" alt=""><figcaption><p>本·拉登的新作案工具.jpg</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/v2-03367fffc27db33bc74c095d90f34b51_r.jpg" alt=""><figcaption><p>只是用来对比大小，实际上当然不能进入大气层</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/v2-0de3101aca66b2a9a01d2cdc33639e23_1440w.jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/v2-aa2c4e778e1987e6a15b417d2427bf37_1440w.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/v2-29dd579b0251e06ff9dfb0cda77e1083_1440w.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/v2-f2fd6d6ab10bdaa92aed998109cab279_r.jpg" alt=""><figcaption><p>尺寸对比</p></figcaption></figure>
+
+\--------
+
+<figure><img src="../.gitbook/assets/v2-77bf3a172ed5ea0e42b7f099d3b93b26_1440w.png" alt=""><figcaption><p>logo绘制：Revolver_Ocelot</p></figcaption></figure>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[^1]: \[1]关于冯机的具体性质与严谨的广义定义，可以看NASA在1982的综述：\
+    Replicating systems concepts: Self-replicating lunar factory and demonstration.
+
+    https://ntrs.nasa.gov/citations/19830007081
+
+    \[2]还有Mikhail V. Shubov的综述：\
+    https://arxiv.org/abs/2110.15198
+
+[^2]: \[3]氘-氦3聚变有氘氘副反应，一直用它发电会被中子橄榄。而且没地方补燃料。所以发电使用朴实无华的光伏，比聚变好使得多。
+
+[^3]: \[4]该恒星是F6V主序星，1.76Ms，寿命\~16.3亿年
+
+[^4]: \[5]笔者使用拟合的CIE三刺激值求得的7100K理想黑体的颜色在亮度修正后转为RGB约为f2f1ff，其实是偏白的，并不很蓝。并且要考虑到观察恒星时刺激值可能饱和。
+
+[^5]: \[6]F和A型恒星的自转速度往往较快，可能呈现明显的椭球状，例如天鹰α（牵牛星），两极温度也显著高于赤道。\
+    但赤道角速度Ω\_e∝t^(-1/2)，会随着时间经过，通过星风与磁场的相互作用等方式损失角动量。因此年龄较老的A型星会像这里一样扁率不很明显。\
+    https://en.wikipedia.org/wiki/Stellar\_rotation
+
+    \[7]作为参考，A型主序星的自转：\
+    Royer, F. (2009). On the Rotation of A-Type Stars. In: Rozelot, JP., Neiner, C. (eds) The Rotation of Sun and Stars. Lecture Notes in Physics, vol 765. Springer, Berlin, Heidelberg. https://link.springer.com/chapter/10.1007/978-3-540-87831-5\_9
+
+[^6]: 8]天鹰α（典型年轻A型星）的表面详细状况：\
+    A realistic two-dimensional model of Altair. K. Bouchaud, A. Domiciano de Souza, M. Rieutord, D. R. Reese, P. Kervella\
+    https://www.aanda.org/articles/aa/full\_html/2020/01/aa36830-19/aa36830-19.html
