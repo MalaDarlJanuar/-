@@ -16,4 +16,4 @@ layout:
 
 # 导论
 
-转载自由\[某种有机智能] (https://www.zhihu.com/people/dvsfasdfcsfdx)和
+转载自由\[某种有机智能]\(https://www.zhihu.com/people/dvsfasdfcsfdx)和
