@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/v2-7cb7c0142e068d6199b9cf886829c9b9_1440w.png
+coverY: 0
+---
+
 # Episode 1
 
 > /主视角自动日志已启用：0001.01.01 00:00:00/
@@ -777,38 +782,6 @@ _距离太阳 约61900光年。由于未更新天文数据，无法计算更精�
 \--------
 
 <figure><img src="../.gitbook/assets/v2-77bf3a172ed5ea0e42b7f099d3b93b26_1440w.png" alt=""><figcaption><p>logo绘制：Revolver_Ocelot</p></figcaption></figure>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

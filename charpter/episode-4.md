@@ -1,6 +1,9 @@
-# Episode 4
+---
+cover: ../.gitbook/assets/v2-7cb7c0142e068d6199b9cf886829c9b9_1440w.png
+coverY: 0
+---
 
-<figure><img src="../.gitbook/assets/v2-7cb7c0142e068d6199b9cf886829c9b9_1440w.png" alt=""><figcaption></figcaption></figure>
+# Episode 4
 
 > /主视角自动日志：0001.01.01 07:41:05/
 

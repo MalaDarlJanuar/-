@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/v2-7cb7c0142e068d6199b9cf886829c9b9_1440w.png
+coverY: 0
+---
+
 # Episode 2
 
 <figure><img src="../.gitbook/assets/v2-0f68a8590bbb36cbc3ab9943b4f92bb0_r.png" alt=""><figcaption></figcaption></figure>

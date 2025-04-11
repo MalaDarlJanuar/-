@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/v2-7cb7c0142e068d6199b9cf886829c9b9_1440w.png
+coverY: 0
+---
+
 # Episode 5
 
 > /主视角自动日志：0001.01.01 08:47:05.037302/
