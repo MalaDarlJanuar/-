@@ -778,9 +778,9 @@
 
 --------
 
-[^1]: 关于冯机的具体性质与严谨的广义定义，可以看NASA在1982的综述：Replicating systems concepts: Self-replicating lunar factory and demonstration. https://ntrs.nasa.gov/citations/19830007081
+[^1]: 关于冯机的具体性质与严谨的广义定义，可以看NASA在1982的综述：Replicating systems concepts: Self-replicating lunar factory and demonstration. 
 
-[^2]: 还有Mikhail V. Shubov的综述：https://arxiv.org/abs/2110.15198
+[^2]: 还有Mikhail V. Shubov的综述：
 
 [^3]: 氘-氦3聚变有氘氘副反应，一直用它发电会被中子橄榄。而且没地方补燃料。所以发电使用朴实无华的光伏，比聚变好使得多。
 
@@ -790,14 +790,14 @@
 
 [^6]: F和A型恒星的自转速度往往较快，可能呈现明显的椭球状，例如天鹰α（牵牛星），两极温度也显著高于赤道。
 但赤道角速度Ω_e∝t^(-1/2)，会随着时间经过，通过星风与磁场的相互作用等方式损失角动量。因此年龄较老的A型星会像这里一样扁率不很明显。 
-https://en.wikipedia.org/wiki/Stellar_rotation
+
 
 [^7]: 作为参考，A型主序星的自转：
-Royer, F. (2009). On the Rotation of A-Type Stars. In: Rozelot, JP., Neiner, C. (eds) The Rotation of Sun and Stars. Lecture Notes in Physics, vol 765. Springer, Berlin, Heidelberg. https://link.springer.com/chapter/10.1007/978-3-540-87831-5_9
+Royer, F. (2009). On the Rotation of A-Type Stars. In: Rozelot, JP., Neiner, C. (eds) The Rotation of Sun and Stars. Lecture Notes in Physics, vol 765. Springer, Berlin, Heidelberg. 
 
 [^8]: 天鹰α（典型年轻A型星）的表面详细状况：
 A realistic two-dimensional model of Altair. K. Bouchaud, A. Domiciano de Souza, M. Rieutord, D. R. Reese, P. Kervella 
-https://www.aanda.org/articles/aa/full_html/2020/01/aa36830-19/aa36830-19.html
+
 
 [^9]: 全天前50亮星中，22颗在100光年以内。
 
